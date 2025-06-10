@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="text-align: justify"> 
-I am currently an final-year undergraduate student in Data Science & AI at Hanoi University of Science & Technology (HUST). Besides, I am a research intern at Aural & Language Intelligence Dept., I2R, A*STAR Singapore under the supervision of <a href="https://research.a-star.edu.sg/researcher/huy-dat-tran/">Dr. Tran Huy Dat</a>.
+I am currently a final-year undergraduate student in Data Science & AI at Hanoi University of Science & Technology (HUST). Besides, I am a research intern at Aural & Language Intelligence Dept., I2R, A*STAR Singapore under the supervision of <a href="https://research.a-star.edu.sg/researcher/huy-dat-tran/">Dr. Tran Huy Dat</a>.
 <br>
 <br>
 My research interest includes technologies and industrial-oriented solutions to <strong>speech processing</strong>: recognition, diarization, emotion recognition, spoof detection; <strong>speaker processing</strong>: recognition, verification, representation. I also have some experience in working with and delivering Large Language Models on the application level. I have had a few publications at the top-ranked conferences in speech and signal processing and technologies (ICASSP, Interspeech). 

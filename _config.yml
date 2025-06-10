@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Long-Vu Hoang"
 # description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "lggvu/long-vu-hoang.github.io"
+repository               : "lggvu/lggvu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Long-Vu Hoang"
   avatar           : "images/vuh_interspeech.jpg"
-  bio              : "B.Eng. @HUST Vietnam, Research Intern @A*STAR Singapore"
+  bio              : "Research Intern @A*STAR Singapore | Incoming PhD @TCD, Ireland"
   location         : "Singapore"
   employer         :
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : vu-hoang-22b59b215/
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0009-0009-8047-7434 # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
