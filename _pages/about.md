@@ -20,7 +20,7 @@ redirect_from:
 I am currently a final-year undergraduate student in Data Science & AI at Hanoi University of Science & Technology (HUST). Besides, I am a research intern at Aural & Language Intelligence Dept., I2R, A*STAR Singapore under the supervision of <a href="https://research.a-star.edu.sg/researcher/huy-dat-tran/">Dr. Tran Huy Dat</a>.
 <br>
 <br>
-My research interest includes technologies and industrial-oriented solutions to <strong>speech processing</strong>: recognition, diarization, emotion recognition, spoof detection; <strong>speaker processing</strong>: recognition, verification, representation. I also have some experience in working with and delivering Large Language Models on the application level. I have had a few publications at the top-ranked conferences in speech and signal processing and technologies (ICASSP, Interspeech). 
+My research interest includes technologies and industry-oriented solutions to <strong>speech processing</strong>: recognition, diarization, emotion recognition, spoof detection; <strong>speaker processing</strong>: recognition, verification, representation. I also have some experience in working with and delivering Large Language Models on the application level. I have had a few publications at the top-ranked conferences in speech and signal processing and technologies (ICASSP, Interspeech). 
 <!-- <a href='https://scholar.google.com/citations?user=m3UGj48AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 </div>
@@ -40,8 +40,8 @@ Topic: Multimodal speech recognition and understanding.
 \* denotes equal contribution.  
 Count=6
 ## 2025
-[Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models]()  
-**Long-Vu Hoang\***, Phuong Tuan Dat\*, Tran Huy Dat. *ISCA Interspeech 2025.*
+[Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models](https://arxiv.org/abs/2506.14153)  
+**Long-Vu Hoang\***, Phuong Tuan Dat\*, Tran Huy Dat. *Interspeech 2025.*
 <details>
 <summary>TL;DR</summary>
 <div style="text-align: justify"> 
@@ -51,8 +51,8 @@ These findings suggest that incorporating KAN into SSL-based models is a promisi
 </details>
 <br>
 
-[Acoustic scattering AI for non-invasive object classifications: A case study on hair assessment]()  
-**Long-Vu Hoang\***, Tuan Nguyen\*, Tran Huy Dat. *ISCA Interspeech 2025.*
+[Acoustic scattering AI for non-invasive object classifications: A case study on hair assessment](https://arxiv.org/abs/2506.14148)  
+**Long-Vu Hoang\***, Tuan Nguyen\*, Tran Huy Dat. *Interspeech 2025.*
 <details>
 <summary>TL;DR</summary>
 <div style="text-align: justify"> 
@@ -62,7 +62,7 @@ When an incident wave interacts with an object, it generates a scattered acousti
 </details>
 <br>
 
-[VoxVietnam: a Large-Scale Multi-Genre Dataset for Vietnamese Speaker Recognition](https://arxiv.org/pdf/2501.00328) [<img src="images/hf_mini.png" alt="HuggingFace" style="vertical-align: middle; width: 20px;">HuggingFace](https://huggingface.co/datasets/hustep-lab/VoxVietnam-Dataset)  
+[VoxVietnam: a Large-Scale Multi-Genre Dataset for Vietnamese Speaker Recognition](https://arxiv.org/abs/2501.00328) [<img src="images/hf_mini.png" alt="HuggingFace" style="vertical-align: middle; width: 20px;">HuggingFace](https://huggingface.co/datasets/hustep-lab/VoxVietnam-Dataset)  
 **Hoang Long Vu**, Phuong Tuan Dat, Pham Thao Nhi, Nguyen Song Hao, Nguyen Thi Thu Trang. *IEEE ICASSP 2025.*
 <details>
 <summary>TL;DR</summary>
@@ -75,7 +75,7 @@ This paper introduces VoxVietnam, the first multi-genre dataset for Vietnamese s
 
 ## 2024
 [VSASV: A Vietnamese dataset for spoofing-aware speaker verification](https://www.isca-archive.org/interspeech_2024/hoang24b_interspeech.pdf) [<img src="images/hf_mini.png" alt="HuggingFace" style="vertical-align: middle; width: 20px;">HuggingFace](https://huggingface.co/datasets/hustep-lab/VSASV-Dataset)    
-**Vu Hoang\***, Viet Thanh Pham\*, Hoa Nguyen Xuan\*, Nhi Pham, Phuong Dat, Thi Thu Trang Nguyen. *ISCA Interspeech 2024 **(Oral)**.*
+**Vu Hoang\***, Viet Thanh Pham\*, Hoa Nguyen Xuan\*, Nhi Pham, Phuong Dat, Thi Thu Trang Nguyen. *Interspeech 2024 **(Oral)**.*
 <details>
 <summary>TL;DR</summary>
 <div style="text-align: justify"> 
@@ -94,7 +94,7 @@ We propose an ensemble system submitted to the I-MSV Challenge 2022 (Indic multi
 </details>
 ## 2023
 [Vietnam-Celeb: a large-scale dataset for Vietnamese speaker recognition](https://www.isca-archive.org/interspeech_2023/pham23b_interspeech.pdf)[<img src="images/hf_mini.png" alt="HuggingFace" style="vertical-align: middle; width: 20px;">HuggingFace](https://huggingface.co/datasets/hustep-lab/Vietnam-Celeb)   
-Pham Viet Thanh, Nguyen Xuan Thai Hoa, **Hoang Long Vu**, Nguyen Thi Thu Trang. *ISCA Interspeech 2023.*
+Pham Viet Thanh, Nguyen Xuan Thai Hoa, **Hoang Long Vu**, Nguyen Thi Thu Trang. *Interspeech 2023.*
 <details>
 <summary>TL;DR</summary>
 <div style="text-align: justify"> 
@@ -102,6 +102,20 @@ The success of speaker recognition systems heavily depends on large training dat
 
 This paper presents a large-scale spontaneous dataset gathered under noisy environments, with over 87,000 utterances from 1,000 Vietnamese speakers of many professions, covering 3 main Vietnamese dialects.</div>
 </details>
+
+# 📝 Preprints
+## 2025
+[Qwen vs. Gemma Integration with Whisper: A Comparative Study in Multilingual SpeechLLM Systems](https://arxiv.org/abs/2506.13596)  
+**Long-Vu Hoang\***, Tuan Nguyen\*, Tran Huy Dat. *Interspeech 2025 Challenge Submission.*
+<details>
+<summary>TL;DR</summary>
+<div style="text-align: justify"> 
+This paper presents our system for the MLC-SLM Challenge 2025, focusing on multilingual speech recognition and language modeling with large language models (LLMs). This is also my frist attempt with SpeechLLM. <br>
+
+We combine a fine-tuned Whisper-large-v3 encoder with projector architectures different LLMs for decoding. We employ a three-stage training methodology. Our best system outperforms the organiser's baseline by 17.55% and finished at top 15.
+</div>
+</details>
+
 
 # 🎖 Honors, Awards and Activities
 - *Mar. 2025* I was given the President Certificate of Merit from HUST for students with excellent results and active contributions.
