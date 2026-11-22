@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Long-Vu Hoang"
   avatar           : "images/vuh_interspeech.jpg"
-  bio              : "Research Intern @A*STAR Singapore | Incoming PhD @TCD, Ireland"
-  location         : "Singapore"
+  bio              : "PhD Student @TCD, Ireland"
+  location         : "Dublin, Ireland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=m3UGj48AAAAJ&hl"
-  email            : "longvu200502@gmail.com"
+  email            : "lhoang@tcd.ie"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

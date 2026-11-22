@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="text-align: justify"> 
-I am currently a final-year undergraduate student in Data Science & AI at Hanoi University of Science & Technology (HUST). Besides, I am a research intern at Aural & Language Intelligence Dept., I2R, A*STAR Singapore under the supervision of <a href="https://research.a-star.edu.sg/researcher/huy-dat-tran/">Dr. Tran Huy Dat</a>.
+I joined Trinity College Dublin, Ireland in September 2025 to start my PhD under the supervision of Prof. Naomi Harte. I am working on multimodal models for turn-taking prediction in speech.
+I did my undergraduate in Data Science & AI at Hanoi University of Science & Technology (HUST). I was am a research intern at Aural & Language Intelligence Dept., I2R, A*STAR Singapore under the supervision of <a href="https://research.a-star.edu.sg/researcher/huy-dat-tran/">Dr. Tran Huy Dat</a>.
 <br>
 <br>
-My research interest includes technologies and industry-oriented solutions to <strong>speech processing</strong>: recognition, diarization, emotion recognition, spoof detection; <strong>speaker processing</strong>: recognition, verification, representation. I also have some experience in working with and delivering Large Language Models on the application level. I have had a few publications at the top-ranked conferences in speech and signal processing and technologies (ICASSP, Interspeech). 
+My research interest includes technologies and industry-oriented solutions to <strong>speech processing</strong>: turn-taking, recognition, diarization, emotion recognition, spoof detection; <strong>speaker processing</strong>: recognition, verification, representation. I also have some experience in working with and delivering Large Language Models on the application level. I have had a few publications at the top-ranked conferences in speech and signal processing and technologies (ICASSP, Interspeech). 
 <!-- <a href='https://scholar.google.com/citations?user=m3UGj48AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
-
 </div>
+# 🎉 News in 2026
+- (September) The first paper of my PhD is accepted to IEEE SLT 2026. See you in Palermo!
+- (20th June) I attended my first UKIS (UK and Ireland Speech Workshop 2026) in London!
 # 🎉 News in 2025
 - (10th June) I got accepted to a funded PhD position at Trinity College Dublin, Ireland! I will be supversied by Prof. Naomi Harte.
 - (19th May) Two first-authored papers are accepted at Interspeech 2025!
@@ -31,14 +34,25 @@ My research interest includes technologies and industry-oriented solutions to <s
 
 
 # 📖 Educations
-- *2025 - 2029 (Incoming)*, Doctor of Philosophy, School of Engineering, Trinity College Dubilin.<br>
+- *2025 - 2029 (Expected)*, Doctor of Philosophy, School of Engineering, Trinity College Dubilin.<br>
 Topic: Multimodal speech recognition and understanding.
 - *2020 - 2025 (Now)*, Bachelor in Data Science & AI, Hanoi University of Science and Technology.
 
 
 # 📝 Publications 
 \* denotes equal contribution.  
-Count=6
+Count=7
+# 2026
+[Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios](https://arxiv.org/pdf/2609.17056) 
+**Long-Vu Hoang**, Naomi Harte. *IEEE SLT 2026.*
+<details>
+<summary>TL;DR</summary>
+<div style="text-align: justify"> 
+will update
+</div>
+</details>
+<br>
+
 ## 2025
 [Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models](https://arxiv.org/abs/2506.14153)  
 **Long-Vu Hoang\***, Phuong Tuan Dat\*, Tran Huy Dat. *Interspeech 2025.*
@@ -51,7 +65,7 @@ These findings suggest that incorporating KAN into SSL-based models is a promisi
 </details>
 <br>
 
-[Acoustic scattering AI for non-invasive object classifications: A case study on hair assessment](https://arxiv.org/abs/2506.14148)  
+<!-- [Acoustic scattering AI for non-invasive object classifications: A case study on hair assessment](https://arxiv.org/abs/2506.14148)  
 **Long-Vu Hoang\***, Tuan Nguyen\*, Tran Huy Dat. *Interspeech 2025.*
 <details>
 <summary>TL;DR</summary>
@@ -60,7 +74,7 @@ This paper presents a novel non-invasive object classification approach using ac
 When an incident wave interacts with an object, it generates a scattered acoustic field encoding structural and material properties. By emitting acoustic stimuli and capturing the scattered signals from head-with-hair-sample objects, we classify hair type and moisture using AI-driven, deep-learning-based sound classification. The experimental results highlight acoustic scattering as a privacy-preserving, non-contact alternative to visual classification, opening huge potential for applications in various industries.
 </div>
 </details>
-<br>
+<br> -->
 
 [VoxVietnam: a Large-Scale Multi-Genre Dataset for Vietnamese Speaker Recognition](https://arxiv.org/abs/2501.00328) [<img src="images/hf_mini.png" alt="HuggingFace" style="vertical-align: middle; width: 20px;">HuggingFace](https://huggingface.co/datasets/hustep-lab/VoxVietnam-Dataset)  
 **Hoang Long Vu**, Phuong Tuan Dat, Pham Thao Nhi, Nguyen Song Hao, Nguyen Thi Thu Trang. *IEEE ICASSP 2025.*
@@ -129,4 +143,9 @@ Reference: Dr. Tran Huy Dat, Senior Principal Scientist, Head of Audio Analytics
 - *10/2022-Now* [HuSTeP Lab](https://huggingface.co/hustep-lab), Hanoi, Vietnam. This is a speech technology research lab at HUST, founded by Dr. NGUYEN Thi Thu Trang. I was the research assistant and lab manager between 10/2023-01/2025.  
 Reference: Dr. Nguyen Thi Thu Trang, Senior Lecturer at SoICT, HUST.
 - *10/2023-01/2025*, [Vbee JSC.](https://vbee.ai/), Hanoi, Vietnam.
-- *08/2023-10/2023*, [AIV Group](https://mindmaid.ai/), Hanoi, Vietnam.
+<!-- - *08/2023-10/2023*, [AIV Group](https://mindmaid.ai/), Hanoi, Vietnam. -->
+
+# Reviewer
+- IEEE SLT (2026)
+- IEEE ICASSP (2026, 2027)
+- Interspeech (2026)
