@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <div style="text-align: justify"> 
 I joined Trinity College Dublin, Ireland in September 2025 to start my PhD under the supervision of Prof. Naomi Harte. I am working on multimodal models for turn-taking prediction in speech.
-I did my undergraduate in Data Science & AI at Hanoi University of Science & Technology (HUST). I was am a research intern at Aural & Language Intelligence Dept., I2R, A*STAR Singapore under the supervision of <a href="https://research.a-star.edu.sg/researcher/huy-dat-tran/">Dr. Tran Huy Dat</a>.
+I did my undergraduate in Data Science & AI at Hanoi University of Science & Technology (HUST). I was a research intern at Aural & Language Intelligence Dept., I2R, A*STAR Singapore under the supervision of <a href="https://research.a-star.edu.sg/researcher/huy-dat-tran/">Dr. Tran Huy Dat</a>.
 <br>
 <br>
 My research interest includes technologies and industry-oriented solutions to <strong>speech processing</strong>: turn-taking, recognition, diarization, emotion recognition, spoof detection; <strong>speaker processing</strong>: recognition, verification, representation. I also have some experience in working with and delivering Large Language Models on the application level. I have had a few publications at the top-ranked conferences in speech and signal processing and technologies (ICASSP, Interspeech). 
@@ -34,15 +34,15 @@ My research interest includes technologies and industry-oriented solutions to <s
 
 
 # 📖 Educations
-- *2025 - 2029 (Expected)*, Doctor of Philosophy, School of Engineering, Trinity College Dubilin.<br>
+- *2025 - 2029 (Expected)*, Doctor of Philosophy, School of Engineering, Trinity College Dublin.<br>
 Topic: Multimodal speech recognition and understanding.
-- *2020 - 2025 (Now)*, Bachelor in Data Science & AI, Hanoi University of Science and Technology.
+- *2020 - 2025*, Bachelor in Data Science & AI, Hanoi University of Science and Technology.
 
 
 # 📝 Publications 
 \* denotes equal contribution.  
 Count=7
-# 2026
+## 2026
 [Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios](https://arxiv.org/pdf/2609.17056) 
 **Long-Vu Hoang**, Naomi Harte. *IEEE SLT 2026.*
 <details>
