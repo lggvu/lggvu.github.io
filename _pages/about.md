@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="text-align: justify"> 
-I joined Trinity College Dublin, Ireland in September 2025 to start my PhD under the supervision of Prof. Naomi Harte. I am working on multimodal models for turn-taking prediction in speech.
+I joined Trinity College Dublin, Ireland in September 2025 to start my PhD under the supervision of Prof. Naomi Harte. I am working on multimodal models for turn-taking prediction in speech.  
+
 I did my undergraduate in Data Science & AI at Hanoi University of Science & Technology (HUST). I was a research intern at Aural & Language Intelligence Dept., I2R, A*STAR Singapore under the supervision of <a href="https://research.a-star.edu.sg/researcher/huy-dat-tran/">Dr. Tran Huy Dat</a>.
 <br>
 <br>
@@ -43,7 +44,7 @@ Topic: Multimodal speech recognition and understanding.
 \* denotes equal contribution.  
 Count=7
 ## 2026
-[Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios](https://arxiv.org/pdf/2609.17056) 
+[Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios](https://arxiv.org/pdf/2609.17056)  
 **Long-Vu Hoang**, Naomi Harte. *IEEE SLT 2026.*
 <details>
 <summary>TL;DR</summary>
