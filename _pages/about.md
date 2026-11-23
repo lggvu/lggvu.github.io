@@ -139,9 +139,9 @@ We combine a fine-tuned Whisper-large-v3 encoder with projector architectures di
 
 
 # 💻 Internships and Research Collaborations
-- *01/2025-Now* [I2R, A*STAR](https://www.a-star.edu.sg/i2r), Singapore.  
+- *01/2025-08/2025* [I2R, A*STAR](https://www.a-star.edu.sg/i2r), Singapore.  
 Reference: Dr. Tran Huy Dat, Senior Principal Scientist, Head of Audio Analytics and Speech Recognition.
-- *10/2022-Now* [HuSTeP Lab](https://huggingface.co/hustep-lab), Hanoi, Vietnam. This is a speech technology research lab at HUST, founded by Dr. NGUYEN Thi Thu Trang. I was the research assistant and lab manager between 10/2023-01/2025.  
+- *10/2022-10/2025* [HuSTeP Lab](https://huggingface.co/hustep-lab), Hanoi, Vietnam. This is a speech technology research lab at HUST, founded by Dr. NGUYEN Thi Thu Trang. I was the research assistant and lab manager between 10/2023-01/2025.  
 Reference: Dr. Nguyen Thi Thu Trang, Senior Lecturer at SoICT, HUST.
 - *10/2023-01/2025*, [Vbee JSC.](https://vbee.ai/), Hanoi, Vietnam.
 <!-- - *08/2023-10/2023*, [AIV Group](https://mindmaid.ai/), Hanoi, Vietnam. -->
